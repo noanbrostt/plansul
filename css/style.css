@@ -201,7 +201,7 @@ section {
                 transform: translateY(-50%);
                 width: 42px;
                 height: 42px;
-                background: url('../imgs/gps.png') no-repeat;
+                background: url(../imgs/gps.png) no-repeat;
             }
         }
     }
